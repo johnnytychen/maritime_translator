@@ -1,13 +1,15 @@
 {
-    "homepage": "./public",
     "name": "maritime_translator",
     "version": "1.0.0",
     "private": true,
-    "type": "module",
+    "homepage": "https://johnnytychen.github.io/maritime_translator",
     "dependencies": {
         "react": "^18.2.0",
         "react-dom": "^18.2.0",
         "react-scripts": "^5.0.1"
+    },
+    "devDependencies": {
+        "gh-pages": "^4.0.0"
     },
     "scripts": {
         "predeploy": "npm run build",
@@ -34,8 +36,5 @@
             "last 1 firefox version",
             "last 1 safari version"
         ]
-    },
-    "devDependencies": {
-        "gh-pages": "^6.3.0"
     }
 }
