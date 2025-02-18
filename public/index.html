@@ -8,6 +8,10 @@
     <link rel="icon" href="data:,">
 </head>
 
+<script>
+    document.querySelector("link[rel~='icon']")?.setAttribute("href", "data:,");
+</script>
+
 <body>
     <div id="root"></div> <!-- React will render the app here -->
 </body>
