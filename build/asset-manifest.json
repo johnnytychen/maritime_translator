@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/maritime_translator/static/js/main.73fd84bd.js",
-    "index.html": "/maritime_translator/index.html",
-    "main.73fd84bd.js.map": "/maritime_translator/static/js/main.73fd84bd.js.map"
+    "main.js": "./public/static/js/main.73fd84bd.js",
+    "index.html": "./public/index.html",
+    "main.73fd84bd.js.map": "./public/static/js/main.73fd84bd.js.map"
   },
   "entrypoints": [
     "static/js/main.73fd84bd.js"

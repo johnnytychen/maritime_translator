@@ -1,5 +1,5 @@
 {
-    "homepage": "https://johnnytychen.github.io/maritime_translator",
+    "homepage": "./public",
     "name": "maritime_translator",
     "version": "1.0.0",
     "private": true,
