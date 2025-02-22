@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/maritime_translator/static/js/main.73fd84bd.js",
+    "main.js": "/maritime_translator/static/js/main.37ec5145.js",
     "index.html": "/maritime_translator/index.html",
-    "main.73fd84bd.js.map": "/maritime_translator/static/js/main.73fd84bd.js.map"
+    "main.37ec5145.js.map": "/maritime_translator/static/js/main.37ec5145.js.map"
   },
   "entrypoints": [
-    "static/js/main.73fd84bd.js"
+    "static/js/main.37ec5145.js"
   ]
 }
