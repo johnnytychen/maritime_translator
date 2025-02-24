@@ -1,12 +1,14 @@
 import React from "react";
-import MaritimeTranslator from "./MaritimeTranslator.js";
 
 function App() {
+    console.log("✅ React App is running!");
+
     return (
         <div>
-            <MaritimeTranslator />
+            <h1>Maritime Translator</h1>
         </div>
     );
 }
 
 export default App;
+
